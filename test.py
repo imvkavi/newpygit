@@ -10,4 +10,14 @@ while loop<10:
     #displays a story based on user input
 
     print('..............................')
+    print('be kind to your',noun,'-footed',pnoun)
+    print('for a duck may be somebody"s',noun2,",")
+    print('be kind your',pnoun,'in',place)
+    print('where the weather is always',adj,'.')
+
     print()
+    print('you may think that is the',noun3,',')
+    print('well it is.')
+    print('............................')
+
+    loop+=1
